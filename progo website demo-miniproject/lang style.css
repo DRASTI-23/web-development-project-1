@@ -1,0 +1,40 @@
+/* this does the styling of our language webpage. */
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:LemonChiffon;
+
+}
+
+h1, .notes,h3,h4{
+    text-align: center;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+.lang-icon{
+    padding: 10px 50px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+p,li{
+    text-align:justify;
+    margin-left: 10px;
+    font-size: large;
+}
+
+.doc-title{
+    text-align: center;
+
+}
+.doc-content{
+    padding: 10px 50px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
